@@ -43,7 +43,7 @@ PySync是一个基于Python的简易局域网文件同步工具，允许用户�
 
 1. 克隆或下载项目代码
    ```bash
-   git clone https://github.com/yourusername/pysync.git
+   git clone https://github.com/water1is/pysync.git
    cd pysync
    ```
 
